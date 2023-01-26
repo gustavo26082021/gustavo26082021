@@ -6,7 +6,7 @@
 
 - 💬 contate-me email : gulopespai025@gmail.com
 
-- ⚡ focada em programação fullstack .
+- ⚡ focado em programação fullstack .
 
 <div align="center">
   <a href="https://github.com/gustavo26082021">
